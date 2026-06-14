@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="hardboss"
+version="1.0.0"
+displayName="Barely Winnable Boss Mod"
+authors="AI Creator"
+mainClass="com.example.hardboss.HardBossMod"
